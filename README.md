@@ -20,6 +20,7 @@ Generally,
 However the following exceptions apply:
 
  -- Movement --
+ 
 • The mouse is the only animal that is allowed to move on the river .
 • Both the lion and the tiger can jump from the land before the river to the land
 after the river , horizontally or vertically, as long as there is no mouse along the way
